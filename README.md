@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinisgomes&label=Profile%20views&color=0e75b6&style=flat" alt="vinisgomes" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Node.js**
 
 - 🤝 I’m looking for help with **Devops**
 
