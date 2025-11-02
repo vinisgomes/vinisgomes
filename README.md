@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **Devops** or **Machine Learning**
+- 💬 Ask me about **Devops** or **Back-End**
 
 - 📫 How to reach me **vsgomes98@gmail.com**
 
